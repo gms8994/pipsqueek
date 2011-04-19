@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/121/trunk/lib/PipSqueek/Plugin
+END
+StringFuncs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/StringFuncs.pm
+END
+PipSqueek.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/85/trunk/lib/PipSqueek/Plugin/PipSqueek.pm
+END
+URLGenerator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/115/trunk/lib/PipSqueek/Plugin/URLGenerator.pm
+END
+Host.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/Host.pm
+END
+AutoRejoin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/AutoRejoin.pm
+END
+Test.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/Test.pm
+END
+Quotes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/105/trunk/lib/PipSqueek/Plugin/Quotes.pm
+END
+Weather2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/67/trunk/lib/PipSqueek/Plugin/Weather2.pm
+END
+LinkGrabber.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/68/trunk/lib/PipSqueek/Plugin/LinkGrabber.pm
+END
+Bash_org.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/98/trunk/lib/PipSqueek/Plugin/Bash_org.pm
+END
+NickServ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/NickServ.pm
+END
+UnitConversion.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/lib/PipSqueek/Plugin/UnitConversion.pm
+END
+Greetings.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/92/trunk/lib/PipSqueek/Plugin/Greetings.pm
+END
+Woot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/lib/PipSqueek/Plugin/Woot.pm
+END
+Currency.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/67/trunk/lib/PipSqueek/Plugin/Currency.pm
+END
+Tick.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/118/trunk/lib/PipSqueek/Plugin/Tick.pm
+END
+EightBall.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/EightBall.pm
+END
+DateTime.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/trunk/lib/PipSqueek/Plugin/DateTime.pm
+END
+RSSGrabber.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/67/trunk/lib/PipSqueek/Plugin/RSSGrabber.pm
+END
+Slap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/69/trunk/lib/PipSqueek/Plugin/Slap.pm
+END
+Weather.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/67/trunk/lib/PipSqueek/Plugin/Weather.pm
+END
+WTF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/84/trunk/lib/PipSqueek/Plugin/WTF.pm
+END
+CapsLockCop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/CapsLockCop.pm
+END
+Country.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/62/trunk/lib/PipSqueek/Plugin/Country.pm
+END
+Roulette.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/89/trunk/lib/PipSqueek/Plugin/Roulette.pm
+END
+BlackJack.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/BlackJack.pm
+END
+Dictionary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/lib/PipSqueek/Plugin/Dictionary.pm
+END
+Babelise.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/67/trunk/lib/PipSqueek/Plugin/Babelise.pm
+END
+Decide.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/lib/PipSqueek/Plugin/Decide.pm
+END
+Timer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/102/trunk/lib/PipSqueek/Plugin/Timer.pm
+END
+Mathbin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/88/trunk/lib/PipSqueek/Plugin/Mathbin.pm
+END
+Logging.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/Logging.pm
+END
+Help.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/Help.pm
+END
+Admin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/121/trunk/lib/PipSqueek/Plugin/Admin.pm
+END
+Math.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/90/trunk/lib/PipSqueek/Plugin/Math.pm
+END
+Birthdays.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/lib/PipSqueek/Plugin/Birthdays.pm
+END
+ChannelHistory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/97/trunk/lib/PipSqueek/Plugin/ChannelHistory.pm
+END
+Seen.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/Seen.pm
+END
+GoogleWeather.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/108/trunk/lib/PipSqueek/Plugin/GoogleWeather.pm
+END
+Translate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/trunk/lib/PipSqueek/Plugin/Translate.pm
+END
+NumberConversion.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/NumberConversion.pm
+END
+Stats.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/119/trunk/lib/PipSqueek/Plugin/Stats.pm
+END
+Uptime.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Plugin/Uptime.pm
+END
+Host6.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/lib/PipSqueek/Plugin/Host6.pm
+END

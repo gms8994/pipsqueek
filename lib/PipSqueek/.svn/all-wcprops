@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/121/trunk/lib/PipSqueek
+END
+Message.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Message.pm
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/lib/PipSqueek/Config.pm
+END
+Jabber_Message.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/103/trunk/lib/PipSqueek/Jabber_Message.pm
+END
+Plugin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/120/trunk/lib/PipSqueek/Plugin.pm
+END
+DBI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/lib/PipSqueek/DBI.pm
+END
+Client.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/117/trunk/lib/PipSqueek/Client.pm
+END
+Jabber_Client.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/114/trunk/lib/PipSqueek/Jabber_Client.pm
+END

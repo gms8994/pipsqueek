@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25/trunk/doc/plugins/Birthdays
+END
+public_+birthday
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/trunk/doc/plugins/Birthdays/public_+birthday
+END
+multi_birthday
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/25/trunk/doc/plugins/Birthdays/multi_birthday
+END
+public_-birthday
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/trunk/doc/plugins/Birthdays/public_-birthday
+END
+multi_birthdays
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/25/trunk/doc/plugins/Birthdays/multi_birthdays
+END
+public_#birthdays
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/trunk/doc/plugins/Birthdays/public_%23birthdays
+END

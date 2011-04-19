@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/26/trunk/doc/plugins/Admin
+END
+multi_part
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_part
+END
+multi_act
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_act
+END
+multi_raw
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/doc/plugins/Admin/multi_raw
+END
+multi_rehash
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_rehash
+END
+multi_say
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_say
+END
+multi_topic
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_topic
+END
+multi_invite
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26/trunk/doc/plugins/Admin/multi_invite
+END
+multi_mergeuser
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/doc/plugins/Admin/multi_mergeuser
+END
+multi_cycle
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_cycle
+END
+multi_join
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_join
+END
+multi_ban
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/doc/plugins/Admin/multi_ban
+END
+multi_kick
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/24/trunk/doc/plugins/Admin/multi_kick
+END
+multi_setlevel
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/18/trunk/doc/plugins/Admin/multi_setlevel
+END
+multi_mode
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26/trunk/doc/plugins/Admin/multi_mode
+END

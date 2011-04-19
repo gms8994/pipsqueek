@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack
+END
+multi_blackjack
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack
+END
+multi_blackjack_reset
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_reset
+END
+multi_blackjack_status
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_status
+END
+multi_blackjack_hit
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_hit
+END
+multi_bj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_bj
+END
+multi_blackjack_stand
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_stand
+END
+multi_blackjack_double
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_double
+END
+multi_blackjack_bet
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_bet
+END
+multi_blackjack_bank
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_bank
+END
+multi_blackjack_stats
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/25/trunk/doc/plugins/BlackJack/multi_blackjack_stats
+END

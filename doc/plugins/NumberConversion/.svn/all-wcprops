@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/29/trunk/doc/plugins/NumberConversion
+END
+multi_dec2bin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_dec2bin
+END
+multi_bin2dec
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_bin2dec
+END
+multi_hex2oct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29/trunk/doc/plugins/NumberConversion/multi_hex2oct
+END
+multi_oct2hex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/25/trunk/doc/plugins/NumberConversion/multi_oct2hex
+END
+multi_hex2bin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29/trunk/doc/plugins/NumberConversion/multi_hex2bin
+END
+multi_bin2hex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_bin2hex
+END
+multi_oct2bin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/25/trunk/doc/plugins/NumberConversion/multi_oct2bin
+END
+multi_bin2oct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_bin2oct
+END
+multi_hex2dec
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29/trunk/doc/plugins/NumberConversion/multi_hex2dec
+END
+multi_dec2hex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_dec2hex
+END
+multi_oct2dec
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_oct2dec
+END
+multi_dec2oct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/doc/plugins/NumberConversion/multi_dec2oct
+END

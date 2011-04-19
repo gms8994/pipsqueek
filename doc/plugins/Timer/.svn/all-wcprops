@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/101/trunk/doc/plugins/Timer
+END
+private_set_timer
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/doc/plugins/Timer/private_set_timer
+END
+private_show_timer
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/trunk/doc/plugins/Timer/private_show_timer
+END
+private_del_timer
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/doc/plugins/Timer/private_del_timer
+END

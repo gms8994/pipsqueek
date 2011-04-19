@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/25/trunk/doc/plugins/Decide
+END
+multi_pick
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25/trunk/doc/plugins/Decide/multi_pick
+END
+multi_decide
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25/trunk/doc/plugins/Decide/multi_decide
+END
+multi_choose
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25/trunk/doc/plugins/Decide/multi_choose
+END

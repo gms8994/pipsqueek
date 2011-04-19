@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/24/trunk/doc/plugins/Stats
+END
+multi_rank
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/24/trunk/doc/plugins/Stats/multi_rank
+END
+multi_stats
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/doc/plugins/Stats/multi_stats
+END
+multi_top10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/doc/plugins/Stats/multi_top10
+END

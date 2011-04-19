@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/27/trunk/doc/plugins/WTF
+END
+multi_acronym
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/doc/plugins/WTF/multi_acronym
+END
+multi_+wtf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/doc/plugins/WTF/multi_+wtf
+END
+multi_-wtf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/doc/plugins/WTF/multi_-wtf
+END
+multi_wtf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/doc/plugins/WTF/multi_wtf
+END
+multi_#wtf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/doc/plugins/WTF/multi_%23wtf
+END

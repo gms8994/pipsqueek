@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/97/trunk/etc/plugins
+END
+RSSGrabber.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25/trunk/etc/plugins/RSSGrabber.conf
+END
+AutoRejoin.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25/trunk/etc/plugins/AutoRejoin.conf
+END
+Slap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25/trunk/etc/plugins/Slap.conf
+END
+CapsLockCop.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25/trunk/etc/plugins/CapsLockCop.conf
+END
+LinkGrabber.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25/trunk/etc/plugins/LinkGrabber.conf
+END
+NickServ.conf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25/trunk/etc/plugins/NickServ.conf
+END
+Dictionary.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25/trunk/etc/plugins/Dictionary.conf
+END
+BlackJack.conf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/25/trunk/etc/plugins/BlackJack.conf
+END
+Logging.conf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/25/trunk/etc/plugins/Logging.conf
+END
+Greetings.conf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/92/trunk/etc/plugins/Greetings.conf
+END
+ChannelHistory.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/etc/plugins/ChannelHistory.conf
+END

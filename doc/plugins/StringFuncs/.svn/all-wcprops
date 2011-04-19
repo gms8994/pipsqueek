@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/25/trunk/doc/plugins/StringFuncs
+END
+multi_morse
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/doc/plugins/StringFuncs/multi_morse
+END
+multi_rot13
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/doc/plugins/StringFuncs/multi_rot13
+END
+multi_reverse
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/25/trunk/doc/plugins/StringFuncs/multi_reverse
+END
+multi_length
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/25/trunk/doc/plugins/StringFuncs/multi_length
+END
